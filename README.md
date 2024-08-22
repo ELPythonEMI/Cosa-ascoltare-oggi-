@@ -1,6 +1,8 @@
 # Cosa ascoltare oggi?
 
 Un'applicazione Python che suggerisce casualmente un album musicale da ascoltare e apre una ricerca YouTube per l'album selezionato.
+
+
 [![Cosa-ascoltare-oggi Screenshot](ascolto.png)](ascolto.png)
 
 ## Caratteristiche
