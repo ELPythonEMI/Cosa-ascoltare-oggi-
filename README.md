@@ -18,7 +18,7 @@ Un'applicazione Python che suggerisce casualmente un album musicale da ascoltare
 
 ## File del progetto
 
-- `main.py`: Lo script Python principale
+- `cosaascoltareoggi.py`: Lo script Python principale
 - `el.ico`: L'icona dell'applicazione
 
 ## Utilizzo
