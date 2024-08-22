@@ -21,10 +21,10 @@ Un'applicazione Python che suggerisce casualmente un album musicale da ascoltare
 
 ## Utilizzo
 
-1. Assicurati che `main.py` e `el.ico` siano nella stessa directory
+1. Assicurati che `cosaascoltareoggi.py` e `el.ico` siano nella stessa directory
 2. Esegui lo script Python:
    ```
-   python main.py
+   python cosaascoltareoggi.py
    ```
 3. Clicca sul pulsante "Ci pensa EL" per ottenere un suggerimento casuale.
 4. Il browser si aprirà automaticamente con una ricerca YouTube dell'album suggerito.
